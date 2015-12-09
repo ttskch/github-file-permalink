@@ -2,7 +2,9 @@
   "name": "github-file-permalink",
   "private": true,
   "version": "0.0.0",
-  "dependencies": {},
+  "dependencies": {
+    "jquery": "~2.1.4"
+  },
   "devDependencies": {
     "chai": "~3.4.2",
     "mocha": "~2.3.4"
