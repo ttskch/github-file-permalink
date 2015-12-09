@@ -1,5 +1,7 @@
 # github-file-permalink
 
+Chrome Extension for adding a permalink button on file view of github.com.
+
 ## Usage
 
 `Latest version` button to see the latest version will be added onto `https://*/*/blob/*` pages.
