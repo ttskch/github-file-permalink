@@ -1,10 +1,11 @@
-# No longer needed, GitHub `y` keyboard shortcut now does this
-
-See https://help.github.com/articles/getting-permanent-links-to-files/.
-
 # github-file-permalink
 
 Chrome Extension for adding a permalink button on file view of github.com.
+
+## !! No longer needed !!
+
+GitHub `y` keyboard shortcut now does this.
+See [here](https://help.github.com/articles/getting-permanent-links-to-files/) to learn more about this feature.
 
 ## Usage
 
