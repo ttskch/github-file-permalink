@@ -15,4 +15,4 @@ See [here](https://help.github.com/articles/getting-permanent-links-to-files/) t
 
 ## Installations
 
-Download the `.crx` file from [Releases](https://github.com/qckanemoto/github-file-permalink/releases), and drag and drop it into the chrome://extensions page.
+Download the `.crx` file from [Releases](https://github.com/ttskch/github-file-permalink/releases), and drag and drop it into the chrome://extensions page.
